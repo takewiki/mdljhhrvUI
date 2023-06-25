@@ -8,9 +8,9 @@ jhhrvUI(
   tabTitle = "嘉好人资凭证区域",
   colTitles = c("上传数据", "生成凭证", "显示区域"),
   widthRates = c(6, 6, 12),
-  func_left = buttonUI_left,
-  func_right = buttonUI_right,
-  func_bottom = buttonUI_bottom
+  func_left = buttonvoucherUI_left,
+  func_right = buttonvoucherUI_right,
+  func_bottom = buttonvoucherUI_bottom
 )
 }
 \arguments{
