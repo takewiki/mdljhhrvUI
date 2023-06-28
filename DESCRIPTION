@@ -15,4 +15,5 @@ Collate:
     'button.R'
     'text.R'
     'date.R'
-    'jhhrv.R'
+    'jhhrvview.R'
+    'jhhrvvoucher.R'
