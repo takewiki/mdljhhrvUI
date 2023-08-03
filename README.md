@@ -1,3 +1,3 @@
 # mdljhhrvUI
 
-devtools:：install_github('ReshapeData/mdljhhrvUI@main')
+devtools::install_github('ReshapeData/mdljhhrvUI@main')
