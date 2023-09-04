@@ -1,7 +1,7 @@
 Package: mdljhhrvUI
 Type: Package
 Title: Demo ui package for module in DMS.
-Version: 1.1.0
+Version: 1.1.2
 Author: hulilei
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
@@ -17,3 +17,4 @@ Collate:
     'date.R'
     'jhhrvview.R'
     'jhhrvvoucher.R'
+    'delete.R'
