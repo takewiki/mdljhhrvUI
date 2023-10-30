@@ -62,8 +62,8 @@ deleteUI_left <- function() {
     tsui::mdl_ListChoose1(
       id = 'text_hrv_voucher_environment',
       label = '请选择费用承担组织',
-      choiceNames = list('江苏', '上海','太仓'),
-      choiceValues = list('江苏','上海','太仓'),
+      choiceNames = list('江苏', '上海','太仓','分公司'),
+      choiceValues = list('江苏','上海','太仓','分公司'),
       selected = '江苏'),
   )
   return(res)
